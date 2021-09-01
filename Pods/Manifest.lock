@@ -1,0 +1,16 @@
+PODS:
+  - RSReusable (1.0.12)
+
+DEPENDENCIES:
+  - RSReusable
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - RSReusable
+
+SPEC CHECKSUMS:
+  RSReusable: e7888dff90fbaf01b9b01169875730be4a04e818
+
+PODFILE CHECKSUM: de431ebd84c036eb2354550759a356a5a0edda85
+
+COCOAPODS: 1.5.3

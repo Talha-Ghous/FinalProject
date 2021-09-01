@@ -1,0 +1,6 @@
+framework module Pods_AutomateProto {
+  umbrella header "Pods-AutomateProto-umbrella.h"
+
+  export *
+  module * { export * }
+}
